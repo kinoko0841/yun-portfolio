@@ -44,7 +44,7 @@ class Home extends Component {
                   <div className="img-block" src={logo}>
                   </div>
                   <div className="text-block">
-                    Fruits Management App
+                    Fruits Management App1
                   </div>
                 </div>*/}
         <div className="project-section project-new-year-section">
