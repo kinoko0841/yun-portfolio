@@ -44,13 +44,13 @@ class Home extends Component {
                   <div className="img-block" src={logo}>
                   </div>
                   <div className="text-block">
-                    Fruits Management App
+                    Fruits Management App1
                   </div>
                 </div>*/}
         <div className="project-section project-new-year-section">
           <div className="img-block">
             <img className="background-cloud" src="svg/bluecloud.svg"/>
-            <img className="project-image" src="home/group-2/group-2@3x.png"/>
+            <img className="project-image" src="home/group-2/group-2.png"/>
 
           </div>
           <div className="text-block">
