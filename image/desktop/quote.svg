@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="31px" height="21px" viewBox="0 0 31 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>quote</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="portfolio" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home-1" transform="translate(-592.000000, -66.000000)" stroke="#44424D">
+            <g id="quote" transform="translate(593.000000, 67.000000)">
+                <g id="Group">
+                    <path d="M6.30142857,19.1601429 C9.68142857,19.1601429 12.4228571,16.4187143 12.4228571,13.0372857 C12.4228571,9.65585714 9.68142857,6.91585714 6.30142857,6.91585714 C2.92,6.91585714 0.178571429,9.65585714 0.178571429,13.0372857 C0.178571429,16.4187143 2.92,19.1601429 6.30142857,19.1601429 Z" id="Stroke-1" stroke-width="1.25"></path>
+                    <path d="M2.32971429,8.34885714 L10.5525714,0.126" id="Stroke-3" stroke-width="1.25"></path>
+                    <path d="M22.67,19.1601429 C26.0514286,19.1601429 28.7928571,16.4187143 28.7928571,13.0372857 C28.7928571,9.65585714 26.0514286,6.91585714 22.67,6.91585714 C19.2885714,6.91585714 16.5471429,9.65585714 16.5471429,13.0372857 C16.5471429,16.4187143 19.2885714,19.1601429 22.67,19.1601429 Z" id="Stroke-5" stroke-width="1.25"></path>
+                    <path d="M18.6982857,8.34885714 L26.9211429,0.126" id="Stroke-7" stroke-width="1.25"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
