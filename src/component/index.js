@@ -11,6 +11,7 @@ import {Resume} from './Resume/resume.js';
 import {SNSIcon} from './SNSIcon.js';
 import {Fruito} from './Work/fruito.js';
 import {HighLightOnVisible} from './HighLightOnVisible.js'
+import {Home} from './Home.js'
 
 export {SNSIcon};
 export {Resume};
@@ -25,3 +26,4 @@ export {Transaction};
 export {GraphicDesign};
 export {Fruito};
 export {HighLightOnVisible};
+export {Home};
